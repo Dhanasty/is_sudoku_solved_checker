@@ -55,5 +55,7 @@ def row_check(board):
             return False
     return True
 def column_check(board):
-
+    column = 0
+    row =0
+    for rowi in range(row,)
 square_checker(board)
